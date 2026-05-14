@@ -1,3 +1,4 @@
 # Project 
-Author - Vaishnavi Bhatt
+Author - Vaishnavi Bhatt 
+<br>
 Project name - Retail sales marketing analytics
